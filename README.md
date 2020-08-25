@@ -7,3 +7,5 @@ The coding I provided is in the hashMap.C file under the comments '//FIXME: impl
 I wrote the code in the following functions: hashLinkNew(), hashMapInit(), hashMapCleanUp(), hashMapGet(), 
     resizeTable(), hashMapPut(), hashMapRemove(), hashMapContainsKey(), hashMapSize(), hashMapCapacity()
     hashMapEmptyBuckets(), hashMapTableLoad() and hashMapPrint()
+    
+I also wrote the following functions in the dictionary spellchecker program: loadDictionary() and main()
